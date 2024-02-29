@@ -28,7 +28,7 @@ Data da Entrega: ________________.<br>
   - 2 - Subtrair <br>
   - 3 - Multiplicar <br>
   - 4 - Dividir <br>
-Caso a linguagem escolhida tenha suporte, exibir o resultado em uma tela gráfica. <br>
+#### Caso a linguagem escolhida tenha suporte, exibir o resultado em uma tela gráfica. <br>
 
 <hr>
 
@@ -72,7 +72,7 @@ Caso a linguagem escolhida tenha suporte, exibir o resultado em uma tela gráfic
   - Se o número da linha for igual ao número da coluna, colocar o valor "1" na posição.
   - Se o número da linha for menor que o número da coluna, colocar o valor "0".
   - Se o número da linha for maior que o número da coluna, colocar o valor "2".
-  Exibir a segunda matriz na tela.
+#### Exibir a segunda matriz na tela.
 
 <hr>
 
