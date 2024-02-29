@@ -16,13 +16,12 @@ Data da Entrega: ________________.<br>
    
 <hr>
 
-2. Crie um programa para o cálculo do IMC de uma pessoa. Exibir mensagens de acordo com
-a faixa de valores encontrada: <br>
-  Menor que 16,5 = Desnutrição <br>
-  de 16,6 a 18,5 = Abaixo do peso <br>
-  de 18,6 a 24,9 = Peso normal <br>
-  de 25 a 29,9 = Sobrepeso <br>
-  maior ou igual a 30 = Obesidade.
+### 2. Crie um programa para o cálculo do IMC de uma pessoa. Exibir mensagens de acordo com a faixa de valores encontrada: <br>
+  - Menor que 16,5 = Desnutrição <br>
+  - de 16,6 a 18,5 = Abaixo do peso <br>
+  - de 18,6 a 24,9 = Peso normal <br>
+  - de 25 a 29,9 = Sobrepeso <br>
+  - maior ou igual a 30 = Obesidade.
 
 <hr>
 
