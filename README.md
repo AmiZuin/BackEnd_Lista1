@@ -1,5 +1,5 @@
 # Lista 1
-Esta lista de programa contém exercícios de Revisão lógica. 
+### Esta lista contém exercícios de Revisão lógica. 
 
 1 – Elaborar um programa que receba o nome de um cliente, seu endereço, valor de uma
 compras e data de entrega. O programa deve exibir o seguinte texto (apresentar na tela a
