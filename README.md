@@ -5,12 +5,7 @@
 <hr>
 
 ### 1. Elaborar um programa que receba o nome de um cliente, seu endereço, valor de uma compras e data de entrega. O programa deve exibir o seguinte texto (apresentar na tela a mesma formatação): <br>
-AVISO <br>
-Caro cliente Sr(a) ______________________, os produtos da sua compra no
-valor de R$ _____ serão entregues no endereço abaixo:<br>
-Rua _____________________________.<br>
-Data da Entrega: ________________.<br>
-******************** Obrigado pela Preferência! **********************
+<img src="imagem.png">
    
 <hr>
 
