@@ -1,5 +1,4 @@
 # Lista 1
-### Está lista contém exercícios de Revisão Lógica
 
 1 – Elaborar um programa que receba o nome de um cliente, seu endereço, valor de uma
 compras e data de entrega. O programa deve exibir o seguinte texto (apresentar na tela a
